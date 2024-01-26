@@ -1,0 +1,30 @@
+.navbar {
+  font-size: 1.3rem;
+  background-color: #728dbedd;
+  color: rgb(255 255 255 / 85%);
+}
+.form-control,
+.btn {
+  font-size: 1.3rem;
+}
+
+
+.navbar-brand img {
+    max-width: 280px;
+}
+.nav-item{
+    padding-inline: .89rem;
+}
+.carousel-item img{
+   height: 80vh;
+   object-fit: cover;
+
+}
+
+.contact-section{
+    background-color: #f1f1f1f1;
+}
+iframe{
+    width: 100%;
+   
+}
